@@ -1,1 +1,3 @@
-# FinalDissertation
+This is a copy of my final dissertation for the Arts and Sciences BASc degree. The dissertation is a 8000-10.000 word interdisciplinary work which summarises a finalist's learnings on the BASc degree. Seeing that BASc encompasses many majors and disciplines, they can have a wide range of topics and methodologies.
+
+This dissertation is a literature review, experimentation, and policy proposal, which investigates the role of natural language processing (NLP) in moderating euphemistic online speech. Euphemisms in this case refer to natural language that the user is intending to be understood only by certain groups, and/or misunderstood by either human or machine moderators. While NLP is already effectively used in moderation, there is still a gap where euphemistic text is detected less. 
